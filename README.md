@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/vNoIqzT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I setup a Windows 10 virtual machine using Microsoft Azure. I then ustilized remote desktop to connect with the VM to begin the osTicket installation.
+I setup a Windows 10 virtual machine using Microsoft Azure. I then utilized remote desktop to connect with the VM to begin the osTicket installation.
 </p>
 <br />
 
